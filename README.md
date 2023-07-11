@@ -1,4 +1,4 @@
-# Use UR5 robotic arm to play Tic Tac Toe
+# Use UR5 robot arm to play Tic Tac Toe
 
 Detecting human moves by image processing
 
