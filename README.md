@@ -4,6 +4,6 @@ Detecting human moves by image processing
 
 Computing AI moves by minimax algorithm (from https://github.com/Cledersonbc/tic-tac-toe-minimax/blob/master/py_version/minimax.py)
 
-Control robot arm via socket and 
+Control robot arm via socket
 
 https://www.youtube.com/watch?v=VNdiRygH6sk
